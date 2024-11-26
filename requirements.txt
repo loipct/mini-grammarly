@@ -1,0 +1,9 @@
+# TextBlob
+language-tool-python
+# transformers
+# torch 
+# torchaudio
+# pyspellchecker
+fastapi
+uvicorn
+pytest
