@@ -1,4 +1,6 @@
 tests/
 venv/
 *.ipynb
+*.pth
+*.pkl
 __pycache__/

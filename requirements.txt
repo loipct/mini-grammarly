@@ -1,9 +1,8 @@
-# TextBlob
 language-tool-python
-# transformers
-# torch 
-# torchaudio
-# pyspellchecker
+transformers
+torch 
+torchaudio
 fastapi
 uvicorn
 pytest
+scikit-learn
