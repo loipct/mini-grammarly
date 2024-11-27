@@ -1,4 +1,5 @@
-# Python FastAPI Project with LangChain for RAG
+
+Download [weight file](https://drive.google.com/file/d/1-B9sWiuJLgwAbP63WT22s0LWaD5rEoU7/view?usp=sharing) and put it into app\ai\models
 
 ## Usage
 
